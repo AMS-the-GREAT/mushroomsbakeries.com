@@ -1,0 +1,20 @@
+body{
+   background:rgb(75, 45, 12);
+}
+img{
+  width:200px;
+}
+.head{
+  background: burlywood;
+}
+.heady{
+ background:rgb(75, 45, 12);
+}
+.container{
+
+max-width:900px;
+margin:0 auto;
+  }
+  .wrap{
+     background: burlywood;
+  }

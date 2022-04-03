@@ -1,0 +1,30 @@
+ .headers{
+font-family: 'Gideon Roman', cursive;
+  text-align:center;
+   background:rgb(75, 45, 12);
+
+}
+body{
+ 
+  text-align:center;
+   background:rgb(75, 45, 12);
+}
+.headers{
+ background: burlywood;
+}
+.container{
+
+max-width:900px;
+margin:0 auto;
+  }
+  .box{
+    background: burlywood;
+  }
+
+.margin {
+  padding-bottom: 40px;
+}
+
+.margintop{
+  padding-top:40px;
+}
